@@ -27,7 +27,7 @@ d{Minecraft Server}
   cc-->ccc(/bin/java)
   d-->Velocity(Velocity)
   d-->dd(Paper)
-  b-->FRP
+  b-->FRP(FRP)
   dd-->ccc
   Velocity-->ccc
   dd-->EULA
